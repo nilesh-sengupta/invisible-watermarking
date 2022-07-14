@@ -10,7 +10,7 @@ Navigate to 'das et al' and open das.ipynb to run the scheme from das et al(2017
 To view the scaling attack use dasScaled.ipynb
 
 To open jupyter notebook run 'jupyter notebook' in the terminal
-Navigate to 'lin et al' and open lin_sccaled.ipynb to run the scheme from lin et al(2009)
+Navigate to 'lin et al' and open lin_scaled.ipynb to run the scheme from lin et al(2009)
 NB: The code lin_scaled.ipynb includes the scaling attack performed
 
 To compare results using PSNR (Peak Signal to Noise Ratio), use 'psnr.ipynb' from 'tests' after placing the original and compressed images in the folder 'tests'

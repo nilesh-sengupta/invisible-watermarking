@@ -10,6 +10,7 @@ To open jupyter notebook run 'jupyter notebook' in the terminal
 Navigate to 'das et al' and open das.ipynb to run the scheme from das et al(2017)
 To simulate the results for table 2 and 3 use das_scaled_table2.ipynb and das_scaled_table3.ipynb
 To calculate PSNR use the Watermarked.png (as w), hostY.png (as H) and Watermarked_modified.png(as a) in ./tests/psnr.ipynb
+To find the percentage of key that can be extracted for a specific watermark for das et al(2017), use key_identification.ipynb in ./das et al
 
 To open jupyter notebook run 'jupyter notebook' in the terminal
 Navigate to 'lin et al' and open lin_scaled.ipynb to run the scheme from lin et al(2009)
